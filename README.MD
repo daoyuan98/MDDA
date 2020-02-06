@@ -2,7 +2,7 @@
 
 Offcial implementation of AAAI2020 paper, Multi-source distilling domain adaptation[https://arxiv.org/abs/1911.11554]
 
-![image-20200204103252564](C:\Users\workshop\AppData\Roaming\Typora\typora-user-images\image-20200204103252564.png)
+![image-20200204103252564](https://github.com/daoyuan98/MDDA/blob/master/images/MDDA.png)
 
 ## Libraries
 
